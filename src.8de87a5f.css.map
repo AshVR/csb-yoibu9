@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,UACE,SAAU,CACZ,QAAS,CAET,qBAAsB,CACpB,sBACF","file":"src.8de87a5f.css","sourceRoot":"..","sourcesContent":["body, html {\n  padding: 0;\nmargin: 0;\n/* line-height: 0; */\nbox-sizing: border-box;\n  font-family: sans-serif;\n}\n\n"]}
